@@ -7,8 +7,8 @@ Login and Signup Page including JWT using Reactjs, Nodejs, Expressjs and Mongodb
 
 Demo Images
 
-![](demopics/register.png)
-![](demopics/login.png)
+![](demopics/register.png) ![](demopics/login.png)
+
 ![](demopics/secret.png)
 
 Made with ❤️ by Jatan Shah
